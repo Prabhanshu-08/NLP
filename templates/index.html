@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html >
+<head>
+  
+  
+  <title>Disaster Tweet Identifier</title>
+  
+</head>
+<style>
+body {
+  background-image: url('/static/home.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+<body>
+    <center>
+
+
+        <h1 style="color:ghostwhite;">Disaster Tweet Classifier</h1>
+
+
+        <form action="{{ url_for('predict')}}"method="post">
+            <p><textarea type="text" name="RI" placeholder="Enter a tweet" rows="4" cols="50" required="required"></textarea><br></p>
+
+            
+            <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button></p>
+        
+        </form>
+
+        
+    </center>
+
+ <center>
+
+    <h4 style="color:lightgreen;">{{prediction_text}}</h4>
+    <h4 style="color:orangered;">{{prediction_text_1}}</h4></center>
+
+</body>
+</html>
