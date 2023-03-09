@@ -25,7 +25,7 @@ Twitter has become an important communication channel in times of emergency. The
 
 * Before the following steps make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system
 
-* Clone the complete project with git clone https://github.com/Prabhanshu-08/NLP-Guide.git or you can just download the code and unzip it
+* Clone the complete project with git clone https://github.com/Prabhanshu-08/NLP.git or you can just download the code and unzip it
 
 * Once the project is cloned, open anaconda prompt in the directory where the project was cloned and paste the following block
 
