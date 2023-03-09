@@ -2,7 +2,7 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88246010/224085559-6d44c273-813b-4ff9-8bd7-c24a452ae495.gif)
 
-It a DL project able to identify the tweets of a disaster in happening. It is trained on over 7000+ tweets and can achieve an validation accuracy of 83%.
+It a NLP project able to identify the tweets of a disaster in happening. It is trained on over 7000+ tweets and can achieve an validation accuracy of 83%. More details about NLP can be found in this [blog](https://medium.com/@prabhanshugupta008/from-text-to-insights-a-beginners-guide-to-nlp-applications-2bcd2b1b38e6).
 
 **Data Source**
 
