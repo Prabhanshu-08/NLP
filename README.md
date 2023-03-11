@@ -1,4 +1,4 @@
-# NLP-Guide
+# NLP
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88246010/224085559-6d44c273-813b-4ff9-8bd7-c24a452ae495.gif)
 
